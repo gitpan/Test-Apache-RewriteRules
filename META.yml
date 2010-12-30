@@ -32,4 +32,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hatena/perl5-test-apache-rewriterules.git
-version: 1.0
+version: 1.0.1
